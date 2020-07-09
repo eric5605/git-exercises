@@ -1,2 +1,2 @@
 # git-exercises
-Hello Planet
+Hello Blue Planet
